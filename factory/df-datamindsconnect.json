@@ -1,0 +1,9 @@
+{
+	"name": "df-datamindsconnect",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "24c84694-827f-4282-bdda-2d5be4aa9937",
+		"tenantId": "8e8aa81e-17bc-49e2-b4cf-f181433ad94a"
+	}
+}
